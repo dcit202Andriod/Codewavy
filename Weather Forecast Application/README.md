@@ -17,9 +17,6 @@
 
 **Demo** application is available in [Release]
 
-**Screenshot**
-
-<p align="center"><img src="assets/screenshot-2.png" /></p>
 
 **Libraries & Dependencies**
 - [Support libraries]: appcompat / recyclerview / constraintlayout
