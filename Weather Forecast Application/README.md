@@ -1,8 +1,6 @@
 # Weather Forecast  application.
 
 
-<p align="center"><img src="assets/screenshot-1.png" /></p>
-
 **Requirements**
 - Android studio last version
 - JDK 8
