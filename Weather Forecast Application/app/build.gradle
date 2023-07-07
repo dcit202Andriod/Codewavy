@@ -12,7 +12,7 @@
         
         #It is highly recommended for everyone to have a weather app at their disposal.
 
-        
+        # it allows you to customized notifications
 Application of  Plugins.
 
 apply plugin: 'com.android.application'
