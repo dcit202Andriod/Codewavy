@@ -16,7 +16,7 @@
 
 **Demo** application is available in [Release]
 
-# Work on 98% of all Andriod devices.
+# Works on 98% of all Andriod devices.
 
 
 **Libraries & Dependencies**
