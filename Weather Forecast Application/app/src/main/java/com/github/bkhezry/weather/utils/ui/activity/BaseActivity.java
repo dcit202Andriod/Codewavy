@@ -11,6 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.github.bkhezry.weather.utils.MyApplication;
 
 import io.github.inflationx.viewpump.ViewPumpContextWrapper;
+//End of Imported dependencies
 
 public class BaseActivity extends AppCompatActivity {
 
