@@ -53,4 +53,3 @@
                 app:strokeColor="@android:color/white" />
         </androidx.coordinatorlayout.widget.CoordinatorLayout>
     </LinearLayout>
-</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
