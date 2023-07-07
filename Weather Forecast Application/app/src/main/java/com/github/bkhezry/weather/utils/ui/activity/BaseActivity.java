@@ -1,5 +1,6 @@
 package com.github.bkhezry.weather.utils.ui.activity;
 
+//Imported Dependencies
 import android.content.Context;
 import android.content.res.Configuration;
 import android.os.Bundle;
