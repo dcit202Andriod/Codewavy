@@ -1,4 +1,4 @@
-#Application of  Plugins
+#Application of  Plugins.
 
 apply plugin: 'com.android.application'
 apply plugin: 'io.objectbox'
