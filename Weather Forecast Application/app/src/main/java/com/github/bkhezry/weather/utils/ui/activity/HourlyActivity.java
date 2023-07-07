@@ -36,6 +36,7 @@ import io.objectbox.BoxStore;
 import io.objectbox.android.AndroidScheduler;
 import io.objectbox.query.Query;
 import io.objectbox.reactive.DataObserver;
+//End of Imported Dependencies 
 
 public class HourlyActivity extends BaseActivity {
   private FastAdapter<ItemHourlyDB> mFastAdapter;
