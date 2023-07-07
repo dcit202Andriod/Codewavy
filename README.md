@@ -1,2 +1,2 @@
 # Codewavy
-Weather Forecast 
+Weather Forecast Application
