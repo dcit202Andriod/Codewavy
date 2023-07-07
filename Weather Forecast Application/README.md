@@ -1,8 +1,9 @@
-# Weather Forecast  application.
+# Weather Forecast  Application.
+
 
 
 **Requirements**
-- Android studio last version
+- Android Studio last version
 - JDK 8
 - Android SDK 31
 - Supports API Level +21
@@ -14,6 +15,8 @@
 - Use local database 
 
 **Demo** application is available in [Release]
+
+# Work on 98% of all Andriod devices.
 
 
 **Libraries & Dependencies**
