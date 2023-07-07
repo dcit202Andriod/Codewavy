@@ -3,6 +3,8 @@
     #Weather App assists you in planning your daily schedules.
     #This app allows you to customize the app's appearance.
 # Allows you to set your current location as the default. 
+    #Can send alerts for severe weather conditions.
+        
 Application of  Plugins.
 
 apply plugin: 'com.android.application'
