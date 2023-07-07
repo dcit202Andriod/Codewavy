@@ -50,6 +50,7 @@ import java.util.Locale;
 import java.util.TimeZone;
 
 import static android.Manifest.permission.ACCESS_NETWORK_STATE;
+//End of Imported Dependencies
 
 public class AppUtil {
   private static Interpolator fastOutSlowIn;
