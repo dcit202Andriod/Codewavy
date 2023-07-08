@@ -1,7 +1,7 @@
 # Codewavy
 Weather Forecast Application
 
-# DCIT 202 GROUP 35
+# DCIT 202 GROUP 35(CODEWAVE)
 
 10945821- Aristocratjnr
 10976807 - Danny755
